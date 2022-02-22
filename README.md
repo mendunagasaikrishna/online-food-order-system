@@ -8,7 +8,7 @@ The *Online Food Ordering System*(Foody) is a desktop app. It has a food orderin
 - Data stored in a MySQL database
 - Friendly user interface with JavaFX
 
-For screenshots [click here](https://winston-dsouza.github.io/#projects)
+
 
 ![login](https://github.com/winston-dsouza/winston-dsouza.github.io/blob/master/images/food/Login.png)
 ![menupage](https://github.com/winston-dsouza/winston-dsouza.github.io/blob/master/images/food/cart.png)
